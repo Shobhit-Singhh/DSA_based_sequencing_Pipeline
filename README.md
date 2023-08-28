@@ -43,17 +43,6 @@ In the directory (coming soon), you'll discover code that demonstrates:
 - Performing hierarchical clustering to reveal underlying gene structures and correlations.
 - Employing K-means analysis to identify gene subgroups with shared characteristics.
 
-Details on using the code in the `unsupervised_machine_learning` directory can be found in its respective README file.
-
-## How to Use
-
-To utilise this repository:
-
-1. Clone or download the repository to your local machine.
-2. Navigate to each directory (`data_structure_and_algorithms`, `deseq2_analysis`, `unsupervised_machine_learning`) to explore the code and README instructions.
-3. Follow the code examples provided in each section to perform the respective analysis.
-4. Adjust parameters and paths for your specific data and analysis.
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions, bug reports, or improvements, please create an issue or submit a pull request.
