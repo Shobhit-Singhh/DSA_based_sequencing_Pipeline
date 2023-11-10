@@ -8,7 +8,6 @@ This repository contains code and resources for performing gene expression analy
 - [Data Structure and Algorithms for Sequencing](#data-structure-and-algorithms-for-sequencing)
 - [DESeq2 for Differential Expression Analysis](#deseq2-for-differential-expression-analysis)
 - [Unsupervised Machine Learning](#unsupervised-machine-learning)
-- [How to Use](#how-to-use)
 - [Contributing](#contributing)
 
 ## Introduction
